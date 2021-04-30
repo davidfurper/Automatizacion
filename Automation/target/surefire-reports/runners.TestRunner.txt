@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: runners.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.25 s <<< FAILURE! - in runners.TestRunner
+initializationError(runners.TestRunner)  Time elapsed: 0.005 s  <<< ERROR!
+cucumber.runtime.CucumberException: 
+java.util.regex.PatternSyntaxException: Illegal repetition near index 14
+se ingresa a {string}
+              ^
+Caused by: java.util.regex.PatternSyntaxException: 
+Illegal repetition near index 14
+se ingresa a {string}
+              ^
+

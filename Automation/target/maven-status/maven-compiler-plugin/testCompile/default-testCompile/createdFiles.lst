@@ -1,0 +1,5 @@
+Base\ClaseBase.class
+definitions\Hooks.class
+definitions\Test.class
+runners\TestRunner.class
+pages\TestPage.class
